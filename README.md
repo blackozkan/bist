@@ -1,0 +1,2 @@
+# bist
+yenilikler
