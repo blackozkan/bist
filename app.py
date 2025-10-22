@@ -159,7 +159,7 @@ BIST_STOCKS = {
         'THYAO', 'GARAN', 'AKBNK', 'TUPRS', 'PETKM', 'SISE', 'EREGL', 'ASELS'
     ],
     "HEPSI": [
-        ''JANTs', 'KAPLM', 'KAREL', 'KARSN', 'KARTN', 'KATMR',
+        'JANTs', 'KAPLM', 'KAREL', 'KARSN', 'KARTN', 'KATMR',
     'KAYSE', 'KBORU', 'KCAER', 'KCHOL', 'KENT', 'KERVN',
     'KFEIN', 'KIMMR', 'KLKIM', 'KLMSN', 'KLNMA', 'KLRHO',
     'KLSER', 'KLSYN', 'KLYPv', 'KMPUR', 'KNFRT', 'KOCMT',
