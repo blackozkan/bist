@@ -712,7 +712,7 @@ with tab1:
                 "📈 1 Saat (Son 1 ay - ~168 bar)",
                 "📊 Günlük (Son 3 ay - ~60 bar)": ("3mo", "1d"),
             "📅 Haftalık (Son 1 yıl - ~52 bar)": ("1y", "1wk")
-        }
+        ]
         
         if time_preset in time_settings:
             period, interval = time_settings[time_preset]
