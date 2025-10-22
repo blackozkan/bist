@@ -158,94 +158,8 @@ BIST_STOCKS = {
     "Popüler": [
         'THYAO', 'GARAN', 'AKBNK', 'TUPRS', 'PETKM', 'SISE', 'EREGL', 'ASELS'
     ],
-    "HEPSI": [
-        'JANTs', 'KAPLM', 'KAREL', 'KARSN', 'KARTN', 'KATMR',
-    'KAYSE', 'KBORU', 'KCAER', 'KCHOL', 'KENT', 'KERVN',
-    'KFEIN', 'KIMMR', 'KLKIM', 'KLMSN', 'KLNMA', 'KLRHO',
-    'KLSER', 'KLSYN', 'KLYPv', 'KMPUR', 'KNFRT', 'KOCMT',
-    'KONKA', 'KONTR', 'KONYA', 'KOPOL', 'KORDS', 'KOTON',
-    'KOZAA', 'KOZAL', 'KRDMA', 'KRONT', 'KRPLS', 'KRSTL',
-    'KRTEK', 'KRVGD', 'KSTUR', 'KTLEV', 'KUTPO', 'KUVVA',
-    'KZBGY', 'KZGYO', 'LIDER', 'LIDFA', 'LILAK', 'LINK',
-    'LKMNH', 'Lmkdc', 'LOGO', 'LRSHO', 'LUKSK', 'LYDHO',
-    'LYDYE', 'MAALT', 'MACKO', 'MAGEN', 'MAKIM', 'MAKTK',
-    'MANAS', 'MARBL', 'MARKA', 'MARMr', 'MARTI', 'MNDTR',
-    'MOBTL', 'MOGAN', 'MOPAS', 'MPARK', 'MRSHL', 'MTRKS',
-    'MTRYO', 'MZHLD', 'NATEN', 'NETAS', 'NIBAS', 'NTGAZ',
-    'NTHOL', 'NUHCM', 'OBAMS', 'OBASE', 'ODAS', 'ODINE',
-    'OFSYM', 'ONCSM', 'ONRYT', 'ORCAY', 'ORGE', 'ORMA',
-    'OSMEN', 'OSTIM', 'OTKAR', 'OTTO', 'OYAKC', 'OYAYO',
-    'OYLUM', 'OYYAT', 'OZATD', 'OZrdn', 'OZSUB', 'OZGYO',
-    'PAGYO', 'PAmEL', 'PAPIL', 'PARSN', 'PASEU', 'PATEK',
-    'PCILT', 'PEKGY', 'PENGD', 'PENTA', 'PETKM', 'PETUN',
-    'PGSUS', 'PINSU', 'PKART', 'PKENT', 'PLTUR',
-    'PNLSN', 'PNSUT', 'POLHO', 'POLTK', 'PRdGS', 'PRKAB',
-    'PRKME', 'PRZMA', 'PSDTc', 'QNBtr', 'QNBfk', 'QUAGR', 'RALYH',
-    'RAYsG', 'REEDR', 'ROYAl', 'RNPOL', 'RODRg', 'RTALB',
-    'RUBNS', 'RUZYE', 'RYSAS', 'SAFKR', 'SAHOL', 'SAMAT',
-    'SANEL', 'SANFM', 'SANKO', 'SARKY', 'SASA', 'SAYAS',
-    'SDTTR', 'SEGMn', 'SEGYO', 'SEKfk', 'SEKUR', 'SELEC',
-    'SELVA', 'SERNT', 'SEYKM', 'SILVR', 'SISE', 'SKBNK', 
-    'SKTAS', 'SKYLP', 'SKYMD', 'SMART', 'SMRTG', 'SMRVA',
-    'SNICA', 'SNKRN', 'SNPAM', 'SODSN', 'SOKE', 'SOKM',
-    'SONME', 'SRVGY', 'SUMAS', 'SUNTK', 'SURGY', 'SUWEN',
-    'TABGD', 'TARKM', 'TATEN', 'TATGD', 'TAVHL', 'TBORG',
-    'TCELL', 'Tckrc', 'TDGYO', 'TEKTU', 'TERA', 'TEZOL',
-    'TGSAS', 'THYAO', 'TKFEN', 'TKNsa', 'TLMAN', 'TMPOL',
-    'TMSN', 'TNZTP', 'TOASO', 'TRCAS', 'TRGYO', 'TRILC',
-    'TSKB', 'TSPOR', 'TTKOM', 'TTRaK', 'TUCLk', 'TUKAS',
-    'TUPRS', 'TUREX', 'TURG', 'TURSG', 'UFUK', 'ULAS',
-    'ULKER', 'ULUFA', 'ULUSE', 'ULUun', 'UNLU', 'USAK',
-    'VAKBN', 'VAKFN', 'VAKKO', 'VANGD', 'VBTYZ', 'VERUS',
-    'VESBE', 'VESTL', 'VKFYO', 'VKING', 'VRGYO', 'VSNMD',
-    'YAPRK', 'YATAS', 'YAYLA', 'YBTAS', 'YEOTK', 'YESIL',
-    'YGGYO', 'YIGIT', 'YKBNK', 'YKSLN', 'YONGA', 'YUNSA',
-    'YYAPI', 'YYLGD', 'ZEDUR', 'ZOREN', 'ZRGYO', 'A1CAP',
-    'A1YEN', 'ACSEL', 'ADEL', 'ADESE', 'ADGYO', 'AEFES',
-    'AFYON', 'AGESA', 'AGHOL', 'AGROT', 'AHSGY', 'AKBNK',
-    'AKCNS', 'AKENR', 'AKFIS', 'AKFYE', 'AKGRT', 'AKSA',
-    'AKSEN', 'AKSUE', 'AKYHO', 'ALARK', 'ALBRK', 'ALCAR',
-    'ALCTL', 'ALFAS', 'ALKA', 'ALKIM', 'ALKLC',
-    'ALTNY', 'ALVES', 'ANELE', 'ANGEN', 'ANHYT', 'ANSGR',
-    'ARASE', 'ARCLK', 'ARDYZ', 'ARENA', 'ARMGD', 'ARSAN',
-    'ARTMS', 'ARZUM', 'ASELS', 'ASTOR', 'ASUZU', 'ATATP',
-    'ATEKS', 'ATLAS', 'ATSYH', 'AVGYO', 'AVHOL', 'AVOD',
-    'AVPGY', 'AYCES', 'AYDEM', 'AYEN', 'AYES', 'AYGAZ',
-    'AZTEK', 'BAGFS', 'BAHKM', 'BAKAB', 'BALAT', 'BALSU',
-    'BANVT', 'BARMA', 'BASCM', 'BASGZ', 'BAYRK', 'BEGYO',
-    'BERA', 'BESLR', 'BEYAZ', 'BFREN', 'BIENY', 'BIGCH', 
-    'BIOEN', 'BIZIM', 'BJKAS', 'BLCYT', 'BLUME', 'BMSCH',
-    'BMSTL', 'BNTAS', 'BObet', 'BORLS', 'BORSK', 'BOSSA',
-    'BRISA', 'BRKO', 'BRKSN', 'BRKVY', 'BRLSM', 'BRMEN',
-    'BRSAN', 'BRYAT', 'BSOKE', 'BTCIM', 'BULGs', 'BURCE',
-    'BURVA', 'BVSAN', 'BYDNR', 'CANTE', 'CASA', 'CATES',
-    'CCOLA', 'CELHA', 'CEMAS', 'CEMTS', 'CEMZY', 'CEDEM',
-    'Cmbtn', 'CIMSA', 'CLEBI', 'CMBTN', 'CMEnT', 'CONSE',
-    'COSMO', 'CRDFA', 'CRFSA', 'CUSAN', 'CVKmD', 'CWENE',
-    'DAGI', 'DAPGM', 'DARDL', 'DCTTr', 'DENGE', 'DERHL',
-    'DERIM', 'DESA', 'DESPC', 'DEVA', 'DGATE', 'DGNMO',
-    'DIRIT', 'DITAS', 'DMRgd', 'DMSAS', 'DNISI', 
-    'DOAS', 'DOBUR', 'DOFER', 'DOFRB', 'DOGUB', 'DOHOL',
-    'DOKTA', 'DSTKF', 'DUNYH', 'DURDO', 'DURkn', 'DYOBY',
-    'DZgYO', 'EBEBK', 'ECILC', 'ECZYT', 'EDATA', 'EDIP',
-    'EFORc', 'EGEEN', 'EGEGY', 'EGEPO', 'EGgUb', 'EGPRO',
-    'EGSER', 'EKIZ', 'EKOS', 'EKSUN', 'ELITE', 'EMKEL',
-    'EMNIS', 'ENDAe', 'ENERY', 'ENJSA', 'ENKAI', 'ENSRI',
-    'ENTRA', 'EPLAS', 'ERBOS', 'ERCb', 'EREGL', 'ERSU',
-    'ESCAR', 'ESCOM', 'ESEN', 'ETILR', 'ETYAT', 'EUHOL', 
-    'EUKYO', 'EUPWR', 'EUREN', 'EUYO', 'FADE', 'FENER',
-    'FLAP', 'FMIzp', 'FONET', 'FORMT', 'FORTE', 'FRIGO', 
-     'MAALT', 'MACKO','MAGEN','MAKIM', 'MAKTK', 'MANAS', 'MARBL',
-    'MARKA', 'MARMR',  'MARTI', 'MAVI', 'MEDTR', 'MEGAP', 'MEGMT',
-    'MEKAG', 'MEPET', 'MERCN', 'MERIT', 'MERKO', 'METRO', 'MGROS',
-    'MHRGY', 'MIATK', 'MMCAS', 'MNDRS', 'MNDTR', 'MOBTL', 'MOGAN',
-    'MOPAS', 'MPARK', 'MRGYO', 'MRSHL', 'MSGYO', 'MTRKS', 'MTRYO',
-    'MZHLD','HEKTS', 'HKTM', 'HDFGS', 'HRKET', 'HTTBt', 'HUBVC', 'HUNER',
-    'HURGZ', 'ICBCT', 'ICUGS', 'IEYHO', 'IHAAS', 'IHEVA',
-    'IHGZT', 'IHLAS', 'IHLGM', 'IHYAY', 'IMASM', 'INDES',
-    'INFO', 'INGRM', 'INTEK', 'INTEM', 'INVEO', 'INVES',
-    'IPEKE', 'ISBIR', 'ISDMR', 'ISFIN', 'ISKPL', 'ISMEN',
-    'ISSEN', 'IZMDC', 'IZenr', 'IZFAS', 'IZINV'
+    "Test Grubu": [
+        'THYAO', 'GARAN', 'AKBNK', 'TUPRS', 'PETKM'
     ]
 }
 
@@ -260,7 +174,21 @@ def get_stock_data(symbol, period='3mo', interval='1d'):
         if not ticker.endswith('.IS'):
             ticker = f"{ticker}.IS"
         
-        data = yf.download(ticker, period=period, interval=interval, progress=False, auto_adjust=True)
+        import warnings
+        warnings.filterwarnings('ignore')
+        
+        # Hataları bastır
+        import logging
+        logging.getLogger('yfinance').setLevel(logging.CRITICAL)
+        
+        data = yf.download(
+            ticker, 
+            period=period, 
+            interval=interval, 
+            progress=False, 
+            auto_adjust=True,
+            show_errors=False  # Hataları gösterme
+        )
         
         if data.empty:
             return None
@@ -269,13 +197,20 @@ def get_stock_data(symbol, period='3mo', interval='1d'):
             data.columns = data.columns.get_level_values(0)
         
         required = ['Open', 'High', 'Low', 'Close', 'Volume']
+        
+        # Kolonları kontrol et
+        missing_cols = [col for col in required if col not in data.columns]
+        if missing_cols:
+            return None
+        
         data = data[required].dropna()
         
         if len(data) < 5:
             return None
         
         return data
-    except:
+    except Exception as e:
+        # Sessizce geç
         return None
 
 def run_strategy(df, strategy_code):
@@ -415,10 +350,18 @@ with tab1:
         if not selected_strategies:
             st.error("❌ En az 1 strateji seçin!")
         else:
+            # Hata mesajlarını gizle
+            import warnings
+            warnings.filterwarnings('ignore')
+            import logging
+            logging.getLogger('yfinance').setLevel(logging.CRITICAL)
+            
             progress = st.progress(0)
             status = st.empty()
             
             results = []
+            success_count = 0
+            error_count = 0
             
             for idx, symbol in enumerate(stocks_to_scan):
                 status.text(f"🔍 {symbol} ({idx+1}/{len(stocks_to_scan)})")
@@ -427,12 +370,21 @@ with tab1:
                 
                 if result:
                     results.append(result)
+                    success_count += 1
+                else:
+                    error_count += 1
                 
                 progress.progress((idx + 1) / len(stocks_to_scan))
-                time.sleep(0.05)
+                time.sleep(0.1)  # Sunucu yükünü azalt
             
             progress.empty()
             status.empty()
+            
+            # Sonuç özeti
+            col1, col2, col3 = st.columns(3)
+            col1.metric("📊 Taranan", len(stocks_to_scan))
+            col2.metric("✅ Sinyal", success_count)
+            col3.metric("⏭️ Sinyal Yok", error_count)
             
             if results:
                 st.session_state.results = sorted(results, key=lambda x: x['score'], reverse=True)
