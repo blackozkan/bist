@@ -5,14 +5,14 @@
 import sys
 
 # Kritik kütüphaneleri kontrol et
-required_libraries = {
+required_libraries = [
     'streamlit': 'streamlit',
     'pandas': 'pandas', 
     'numpy': 'numpy',
     'yfinance': 'yfinance',
     'plotly': 'plotly',
     'scipy': 'scipy'
-}
+]
 
 missing_libraries = []
 
